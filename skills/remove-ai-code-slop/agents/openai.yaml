@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remove AI Code Slop"
+  short_description: "Clean branch diffs without changing behavior"
+  default_prompt: "Use $remove-ai-code-slop to compare this branch with main and remove AI-generated code slop."

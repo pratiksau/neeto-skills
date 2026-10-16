@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Simple Durable Systems"
+  short_description: "Favor simple, durable, modular product architecture"
+  default_prompt: "Use $build-simple-durable-systems to design and implement this feature with the simplest durable architecture."

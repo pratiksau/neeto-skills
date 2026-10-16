@@ -1,0 +1,4 @@
+interface:
+  display_name: "Neeto intent and reuse"
+  short_description: "Check intent, reuse, and shared-path impact"
+  default_prompt: "Use $neeto-intent-and-reuse to inspect existing code, confirm intended behavior, and explain reuse choices before implementing or reviewing this Neeto change."

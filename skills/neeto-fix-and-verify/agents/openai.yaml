@@ -1,0 +1,3 @@
+interface:
+  display_name: "Neeto Fix and Verify"
+  short_description: "Fix Neeto bugs and verify them in a real app"
